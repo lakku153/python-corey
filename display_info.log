@@ -1,0 +1,5 @@
+INFO:root:Ran with args: ('lok', 10), and kwargs: {}
+INFO:root:Ran with args: ('lok', 10), and kwargs: {}
+INFO:root:Ran with args: ('lokesh', 20), and kwargs: {}
+INFO:root:Ran with args: ('lokesh', 20), and kwargs: {}
+INFO:root:Ran with args: ('rahul', 30), and kwargs: {}
